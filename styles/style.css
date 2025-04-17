@@ -1,0 +1,11 @@
+/* body {
+  background-color: #f8bbd0;
+} */
+
+/* https://forum.bootstrapstudio.io/t/changing-the-navbar-color/10513/3 */
+#pageNav {
+  background-color: rgb(236, 189, 230);
+}
+.navbar-brand {
+  color:rgb(66, 4, 58);
+}
