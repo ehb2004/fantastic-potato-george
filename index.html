@@ -5,11 +5,12 @@
   <title>runningApp</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css'><link rel="stylesheet" href="./style.css">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css'>
   <link rel='stylesheet' href="styles/style.css">
 </head>
 <body>
-
+<!-- wraps whole page in flex container -->
+<div id="pageContent" class="d-flex flex-column min-vh-100">
 <!-- Navigation Bar stolen from devCharlie example -->
 <!-- https://github.com/barrycumbie/special-fortnight-charlie -->
 <!-- ✅ navbar with burger and logo -->
@@ -18,7 +19,7 @@
     <a class="navbar-brand" href="#">Running Log
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span style="font-size: 20px;">🦭</span>
+      <span style="font-size: 30px;">🏃🏻‍♀️</span>
     </button>
     <!-- links if they decide to work... -->
     <div class="collapse navbar-collapse" id="navbarNav">
@@ -32,15 +33,35 @@
   </div>
 </nav>
 
+<!-- Main content -->
+<main class="container mt-4">
+  <div id="runEntries" class="row">
+    <!-- Cards go here -->
+  </div>
+</main>
 
 
-
+<!-- footer -->
+<!-- <footer class="bg-light text-center text-lg-start mt-auto" style="position: sticky; bottom: 0; width: 100%;">
+  <div class="text-center p-3">
+    © 2023 Running Log. All rights reserved.
+  </div>
+</footer> -->
+<!-- https://getbootstrap.com/docs/5.1/examples/footers/ -->
+<footer class="py-3 mt-auto">
+  <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+    <li class="nav-item"><a href="#" class="px-2">My Github</a></li>
+    <li class="nav-item"><a href="#" class="px-2">Source Code</a></li>
+  </ul>
+  <p class="text-center">Happy Running!</p>
+</footer>
+</div>
 
 
 <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js'></script><script  src="./script.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js'></script>
 <script src='scripts/script.js'></script>
 
 

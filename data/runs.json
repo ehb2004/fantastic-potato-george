@@ -1,0 +1,494 @@
+{
+    "runningData": [
+      {
+        "date": "2024-11-27",
+        "distance": "2.04 miles",
+        "time": "30 minutes 27 seconds",
+        "pace": "14:53 min/mile",
+        "note": "The beginning of a long running journey."
+      },
+      {
+        "date": "2024-12-02",
+        "distance": "2.93 miles",
+        "time": "39 minutes 53 seconds",
+        "pace": "13:36 min/mile",
+        "note": "3 mins on, 2 mins walking. Felt good."
+      },
+      {
+        "date": "2024-12-03",
+        "distance": "2.26 miles",
+        "time": "30 minutes 11 seconds",
+        "pace": "13:18 min/mile",
+        "note": "3 mins on, 1 min walking."
+      },
+      {
+        "date": "2024-12-04",
+        "distance": "2.75 miles",
+        "time": "34 minutes 53 seconds",
+        "pace": "12:40 min/mile",
+        "note": "4 mins on, 1 min walking."
+      },
+      {
+        "date": "2024-12-07",
+        "distance": "3.00 miles",
+        "time": "34 minutes 18 seconds",
+        "pace": "11:25 min/mile",
+        "note": "First run without preworkout lol."
+      },
+      {
+        "date": "2024-12-08",
+        "distance": "3.30 miles",
+        "time": "41 minutes 53 seconds",
+        "pace": "12:41 min/mile",
+        "note": "6 mins on, 2 mins walking."
+      },
+      {
+        "date": "2024-12-09",
+        "distance": "2.75 miles",
+        "time": "34 minutes 41 seconds",
+        "pace": "12:36 min/mile",
+        "note": "4 mins on, 1 min walking."
+      },
+      {
+        "date": "2024-12-10",
+        "distance": "2.69 miles",
+        "time": "32 minutes 52 seconds",
+        "pace": "12:11 min/mile",
+        "note": "Broken 1.9mis."
+      },
+      {
+        "date": "2024-12-14",
+        "distance": "2.96 miles",
+        "time": "36 minutes 1 second",
+        "pace": "12:09 min/mile",
+        "note": "Fast 200s."
+      },
+      {
+        "date": "2024-12-16",
+        "distance": "2.95 miles",
+        "time": "37 minutes 40 seconds",
+        "pace": "12:45 min/mile",
+        "note": "Slow 500s."
+      },
+      {
+        "date": "2024-12-17",
+        "distance": "2.52 miles",
+        "time": "32 minutes 6 seconds",
+        "pace": "12:43 min/mile",
+        "note": "Knees weak, arms are heavy lol."
+      },
+      {
+        "date": "2024-12-23",
+        "distance": "1.85 miles",
+        "time": "21 minutes 18 seconds",
+        "pace": "11:29 min/mile",
+        "note": "Christmas EVE Eve run."
+      },
+      {
+        "date": "2024-12-29",
+        "distance": "1.00 mile",
+        "time": "10 minutes 11 seconds",
+        "pace": "10:11 min/mile",
+        "note": "Knee did not actually hurt today, whoop whoop!"
+      },
+      {
+        "date": "2025-01-01",
+        "distance": "1.25 miles",
+        "time": "14 minutes 12 seconds",
+        "pace": "11:21 min/mile",
+        "note": "I just ran around my house like 15 times."
+      },
+      {
+        "date": "2025-01-04",
+        "distance": "0.33 miles",
+        "time": "2 minutes 51 seconds",
+        "pace": "8:34 min/mile",
+        "note": "Well, it was colder than I thought."
+      },
+      {
+        "date": "2025-01-09",
+        "distance": "3.20 miles",
+        "time": "42 minutes 0 seconds",
+        "pace": "13:07 min/mile",
+        "note": "Run with 3 hours of sleep, never again."
+      },
+      {
+        "date": "2025-01-18",
+        "distance": "2.50 miles",
+        "time": "28 minutes 0 seconds",
+        "pace": "11:12 min/mile",
+        "note": "Hey Siri, play Fergalicious."
+      },
+      {
+        "date": "2025-01-21",
+        "distance": "2.52 miles",
+        "time": "33 minutes 32 seconds",
+        "pace": "13:18 min/mile",
+        "note": "Evening run."
+      },
+      {
+        "date": "2025-01-24",
+        "distance": "1.20 miles",
+        "time": "13 minutes 48 seconds",
+        "pace": "11:25 min/mile",
+        "note": "Late night, short run."
+      },
+      {
+        "date": "2025-01-25",
+        "distance": "3.20 miles",
+        "time": "35 minutes 0 seconds",
+        "pace": "10:56 min/mile",
+        "note": "Rah."
+      },
+      {
+        "date": "2025-01-27",
+        "distance": "2.60 miles",
+        "time": "30 minutes 0 seconds",
+        "pace": "11:32 min/mile",
+        "note": "I upped the incline to 1.5, shoulda stayed at a humble 1."
+      },
+      {
+        "date": "2025-01-28",
+        "distance": "2.80 miles",
+        "time": "35 minutes 0 seconds",
+        "pace": "12:30 min/mile",
+        "note": "Nice slow recovery run."
+      },
+      {
+        "date": "2025-02-04",
+        "distance": "2.00 miles",
+        "time": "25 minutes 0 seconds",
+        "pace": "12:30 min/mile",
+        "note": "Nice easy 2 miler."
+      },
+      {
+        "date": "2025-02-06",
+        "distance": "2.20 miles",
+        "time": "25 minutes 0 seconds",
+        "pace": "11:22 min/mile",
+        "note": "Speed work eww."
+      },
+      {
+        "date": "2024-02-08",
+        "distance": "4.00 miles",
+        "time": "48 minutes 0 seconds",
+        "pace": "12:00 min/mile",
+        "note": "LONGEST RUN YET..."
+      },
+      {
+        "date": "2025-02-11",
+        "distance": "3.20 miles",
+        "time": "39 minutes 0 seconds",
+        "pace": "12:11 min/mile",
+        "note": "Not too bad."
+      },
+      {
+        "date": "2025-02-13",
+        "distance": "2.10 miles",
+        "time": "25 minutes 30 seconds",
+        "pace": "12:09 min/mile",
+        "note": "Did you know I could go 7.0 mph? Me neither."
+      },
+      {
+        "date": "2025-02-17",
+        "distance": "3.23 miles",
+        "time": "38 minutes 57 seconds",
+        "pace": "12:02 min/mile",
+        "note": "Progressive Run."
+      },
+      {
+        "date": "2025-02-08",
+        "distance": "1.70 miles",
+        "time": "21 minutes 20 seconds",
+        "pace": "12:32 min/mile",
+        "note": "Very short recovery run."
+      },
+      {
+        "date": "2025-02-20",
+        "distance": "2.20 miles",
+        "time": "25 minutes 55 seconds",
+        "pace": "11:47 min/mile",
+        "note": "This week has been hard running"
+      },
+      {
+        "date": "2025-02-22",
+        "distance": "5.00 miles",
+        "time": "60 minutes 0 seconds",
+        "pace": "12:00 min/mile",
+        "note": "LONG RUN PR!"
+      },
+      {
+        "date": "2025-02-24",
+        "distance": "1.50 miles",
+        "time": "18 minutes 0 seconds",
+        "pace": "12:00 min/mile",
+        "note": "2 servings of pozole was not the move today."
+      },
+      {
+        "date": "2025-02-25",
+        "distance": "3.30 miles",
+        "time": "39 minutes 06 seconds",
+        "pace": "11:51 min/mile",
+        "note": "My knee is angry with me, but I hope it gets over it."
+      },
+      {
+        "date": "2025-02-27",
+        "distance": "2.20 miles",
+        "time": "26 minutes 0 seconds",
+        "pace": "11:49 min/mile",
+        "note": "Thursday Speed Work."
+      },
+      {
+        "date": "2025-03-01",
+        "distance": "3.10 miles",
+        "time": "35 minutes 1 second",
+        "pace": "11:18 min/mile",
+        "note": "Long Run (1/2)."
+      },
+      {
+        "date": "2025-03-01",
+        "distance": "1.00 mile",
+        "time": "11 minutes 35 seconds",
+        "pace": "11:35 min/mile",
+        "note": "Long Run (2/2) Sadly, I had to stop."
+      },
+      {
+        "date": "2025-03-03",
+        "distance": "3.40 miles",
+        "time": "38 minutes 47 seconds",
+        "pace": "11:24 min/mile",
+        "note": "Progressive Run."
+      },
+      {
+        "date": "2025-03-04",
+        "distance": "2.00 miles",
+        "time": "23 minutes 12 seconds",
+        "pace": "11:36 min/mile",
+        "note": "Eh run, PF was ridiculously hot."
+      },
+      {
+        "date": "2025-03-06",
+        "distance": "2.25 miles",
+        "time": "25 minutes 8 seconds",
+        "pace": "11:10 min/mile",
+        "note": "Enjoyed sushi today, but at what cost???"
+      },
+      {
+        "date": "2025-03-08",
+        "distance": "5.51 miles",
+        "time": "63 minutes 2 seconds",
+        "pace": "11:26 min/mile",
+        "note": "Was aiming for 6, but I will take 5.5."
+      },
+      {
+        "date": "2025-03-10",
+        "distance": "3.35 miles",
+        "time": "37 minutes 4 seconds",
+        "pace": "11:03 min/mile",
+        "note": "Yet another progressive run."
+      },
+      {
+        "date": "2025-03-11",
+        "distance": "3.66 miles",
+        "time": "40 minutes 56 seconds",
+        "pace": "11:11 min/mile",
+        "note": "Tempo Run- NO WALK BREAKS!"
+      },
+      {
+        "date": "2025-03-13",
+        "distance": "2.63 miles",
+        "time": "30 minutes 54 seconds",
+        "pace": "11:44 min/mile",
+        "note": "That was brutal"
+      },
+      {
+        "date": "2025-03-17",
+        "distance": "1.20 miles",
+        "time": "14 minutes 29 seconds",
+        "pace": "12:04 min/mile",
+        "note": "Mile trial warm up?"
+      },
+      {
+        "date": "2025-03-17",
+        "distance": "1.00 mile",
+        "time": "9 minutes 40 seconds",
+        "pace": "9:40 min/mile",
+        "note": "Mile Trial - I tried to go fast."
+      },
+      {
+        "date": "2025-03-18",
+        "distance": "2.14 miles",
+        "time": "24 minutes 22 seconds",
+        "pace": "11:23 min/mile",
+        "note": "Tempo Run - fail. Guys, today was awful."
+      },
+      {
+        "date": "2025-03-20",
+        "distance": "2.25 miles",
+        "time": "26 minutes 11 seconds",
+        "pace": "11:38 min/mile",
+        "note": "Speed work, skipped cooldown."
+      },
+      {
+        "date": "2025-03-22",
+        "distance": "1.38 miles",
+        "time": "13 minutes 46 seconds",
+        "pace": "9:57 min/mile",
+        "note": "Night run in Kentucky. Mile PR!"
+      },
+      {
+        "date": "2025-03-24",
+        "distance": "1.10 miles",
+        "time": "39 minutes 06 seconds",
+        "pace": "9:28 min/mile",
+        "note": "New shoes in Kentucky."
+      },
+      {
+        "date": "2025-03-25",
+        "distance": "2.00 miles",
+        "time": "21 minutes 19 seconds",
+        "pace": "10:39 min/mile",
+        "note": "Tempo Run - incomplete."
+      },
+      {
+        "date": "2025-03-29",
+        "distance": "1.60 miles",
+        "time": "18 minutes 27 seconds",
+        "pace": "11:32 min/mile",
+        "note": "Returning from Spring Break part 1."
+      },
+      {
+        "date": "2025-03-29",
+        "distance": "0.76 miles",
+        "time": "15 minutes 24 seconds",
+        "pace": "20:15 min/mile",
+        "note": "Part 2. Hill Sprint Intervals."
+      },
+      {
+        "date": "2025-03-31",
+        "distance": "4.16 miles",
+        "time": "47 minutes 6 seconds",
+        "pace": "11:19 min/mile",
+        "note": "Monday Progressive Run."
+      },
+      {
+        "date": "2025-04-01",
+        "distance": "2.57 miles",
+        "time": "29 minutes 32 seconds",
+        "pace": "11:29 min/mile",
+        "note": "Tempo Run, DNF whole thing."
+      },
+      {
+        "date": "2025-04-01",
+        "distance": "1.05 miles",
+        "time": "17 minutes 48 seconds",
+        "pace": "16:57 min/mile",
+        "note": "Incline 9, hill sprint intervals."
+      },
+      {
+        "date": "2025-04-03",
+        "distance": "2.66 miles",
+        "time": "30 minutes 12 seconds",
+        "pace": "11:21 min/mile",
+        "note": "Speed Work Thursday."
+      },
+      {
+        "date": "2025-04-05",
+        "distance": "5.50 miles",
+        "time": "62 minutes 29 seconds",
+        "pace": "11:22 min/mile",
+        "note": "Long Run Sat. 6 miles in the works."
+      },
+      {
+        "date": "2025-04-07",
+        "distance": "3.77 miles",
+        "time": "43 minutes 08 seconds",
+        "pace": "11:26 min/mile",
+        "note": "Knocked the speed down a TINY bit to prepare for the long run. Call me a strategist."
+      },
+      {
+        "date": "2025-04-08",
+        "distance": "3.73 miles",
+        "time": "42 minutes 21 seconds",
+        "pace": "11:21 min/mile",
+        "note": "Hey guys I actually did the whole tempo run."
+      },
+      {
+        "date": "2025-04-08",
+        "distance": "1.02 miles",
+        "time": "16 minutes 39 seconds",
+        "pace": "16:19 min/mile",
+        "note": "Incline 9, you think you cannot sweat anymore, but definitely can."
+      },
+      {
+        "date": "2025-04-10",
+        "distance": "2.40 miles",
+        "time": "28 minutes 33 seconds",
+        "pace": "11:54 min/mile",
+        "note": "Thursday Speed Work."
+      },
+      {
+        "date": "2025-04-12",
+        "distance": "5.89 miles",
+        "time": "65 minutes 0 seconds",
+        "pace": "11:02 min/mile",
+        "note": "Stupid autoshut off at PF is my opps."
+      },
+      {
+        "date": "2025-04-14",
+        "distance": "3.10 miles",
+        "time": "34 minutes 31 seconds",
+        "pace": "11:08 min/mile",
+        "note": "Progressive Run, knees hurt."
+      },
+      {
+        "date": "2025-04-15",
+        "distance": "1.50 miles",
+        "time": "17 minutes 14 seconds",
+        "pace": "11:29 min/mile",
+        "note": "Tempo Run Cut Short - I felt sick today."
+      },
+      {
+        "date": "2025-02-25",
+        "distance": "2.55 miles",
+        "time": "29 minutes 29 seconds",
+        "pace": "11:33 min/mile",
+        "note": "Speed work, how you eat does in fact affect your training..."
+      },
+      {
+        "date": "2025-04-19",
+        "distance": "3.19 miles",
+        "time": "33 minutes 48 seconds",
+        "pace": "10:35 min/mile",
+        "note": "UNA Lucky Lion Race - My first race!"
+      },
+      {
+        "date": "2025-04-21",
+        "distance": "4.20 miles",
+        "time": "47 minutes 18 seconds",
+        "pace": "11:16 min/mile",
+        "note": "Back to training for the half marathon in 7?8? months."
+      },
+      {
+        "date": "2025-04-22",
+        "distance": "4.20 miles",
+        "time": "46 minutes 31 seconds",
+        "pace": "11:05 min/mile",
+        "note": "So happy to slowly, but surely increase my week distance."
+      },
+      {
+        "date": "2025-04-22",
+        "distance": "1.04 miles",
+        "time": "16 minutes 37 seconds",
+        "pace": "15:59 min/mile",
+        "note": "Hill Sprints, someone remind me why I wanted to be faster?!?"
+      },
+      {
+        "date": "2025-04-24",
+        "distance": "2.58 miles",
+        "time": "31 minutes 0 seconds",
+        "pace": "12:00 min/mile",
+        "note": "Thursday Speed Work - Top speed 8.0!!"
+      }
+    ]
+  }

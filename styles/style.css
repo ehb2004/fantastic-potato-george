@@ -1,11 +1,51 @@
-/* body {
-  background-color: #f8bbd0;
-} */
+/* https://colorhunt.co/palette/56021f7d1c4ad17d98f4cce9 */
+body {
+  background-color: #F4CCE9;
+}
 
 /* https://forum.bootstrapstudio.io/t/changing-the-navbar-color/10513/3 */
 #pageNav {
-  background-color: rgb(236, 189, 230);
+  background-color: #c6899c;
 }
 .navbar-brand {
-  color:rgb(66, 4, 58);
+  color:#EEEEEE;
+  font-weight: bold;
+}
+
+/* edit and delete buttons */
+.edit-btn {
+  background-color: #e086a3;
+  color: #EEEEEE;
+  border: none;
+}
+.edit-btn:hover {
+  background-color: #F4CCE9;
+  color: #6d1732;
+}
+
+.delete-btn {
+  background-color: #3f0719;
+  color: #EEEEEE;
+  border: none;
+}
+.delete-btn:hover {
+  background-color: #F4CCE9;
+  color: #3f0719;
+}
+
+/* footer */
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #c6899c;
+  color: #EEEEEE;
+}
+footer a {
+  color: #EEEEEE;
+  text-decoration: none;
+}
+/* padding */
+body {
+  padding-bottom: 150px;
 }
