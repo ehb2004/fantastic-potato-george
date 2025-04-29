@@ -49,3 +49,12 @@ footer a {
 body {
   padding-bottom: 150px;
 }
+
+/* adding new run */
+.custom-form-container {
+  background-color: #d2a7c6;
+  color:aliceblue;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
